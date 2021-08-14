@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Matthias-Yu
 - 👀 I’m interested in computer vision and back-end development technology
 - 🌱 I’m currently learning the semantic segmentation based on convolutional neural network
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on practical applications of computer vision
 - 📫 Matthias.Yu@outlook.com
 
 <!---
